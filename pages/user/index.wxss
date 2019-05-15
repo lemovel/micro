@@ -1,0 +1,24 @@
+/* pages/user/index.wxss */
+.userMessage {
+  height: 100%;
+  width:100%;
+  display:flex;
+ justify-content:flex-start; 
+ padding:50rpx 50rpx; 
+ align-items:center;
+ background-color:yellow;
+  box-sizing: border-box;  
+}
+.userimage {
+  width:140rpx;
+  height:140rpx;
+  margin-right:50rpx; 
+}
+.userNav {
+  width:100%;
+  margin-top:20rpx;
+  height: 50rpx;
+  background: #fff;
+  display:flex;
+  align-items: center;
+}
